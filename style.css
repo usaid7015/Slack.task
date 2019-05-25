@@ -1,0 +1,40 @@
+/* Write all your CSS here */
+#header{
+    background-color: #3f0d40;
+    color: white;
+    width: 20%;
+}
+.navbar{
+    display: block;
+    padding: 0%;
+    margin: 10px;
+}
+.username{
+    padding: 0%;
+    margin: 10px;
+}
+.margin{
+    margin: 10px;
+}
+.channel-body>ul{
+    padding: 0%;
+    margin: 10px;
+}
+.channel-body>ul>li{
+    list-style-type: none;
+}
+.channel-body>ul>li> a{
+    color: white;
+    text-decoration: none;
+}
+.div5>ul>li{
+    list-style-type: none;
+}
+.div5>ul{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Please indent properly */
+/* Please use only lower-case letters */
+/* Your webpage should be 100% responsive!!! */
